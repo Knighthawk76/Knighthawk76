@@ -3,6 +3,8 @@
 
 - <b>Azure/Cloud Projects</b>
   - [Creating a live SOC / Honeynet in Azure](https://github.com/Knighthawk76/Azure-Honeynet)
+ 
+  - [Vulnerability Scanning/OpenVas](https://github.com/Knighthawk76/Vulnerability-Scanning)
 
 <h2>📺 Popular YouTube Videos</h2>
 
