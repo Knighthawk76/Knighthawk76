@@ -5,8 +5,6 @@
   - [Creating a live SOC / Honeynet in Azure](https://github.com/Knighthawk76/Azure-Honeynet)
  
   - [Vulnerability Scanning/OpenVas](https://github.com/Knighthawk76/Vulnerability-Scanning)
- 
-   https://github.com/Knighthawk76/Windows-Server-With-Active-Directory-.git https://github.com/Knighthawk76/Windows-Server-With-Active-Directory-
 
 <h2>📺 Popular YouTube Videos</h2>
 
