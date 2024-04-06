@@ -5,8 +5,6 @@
   - [Creating a live SOC / Honeynet in Azure](https://github.com/Knighthawk76/Azure-Honeynet)
  
   - [Vulnerability Scanning/OpenVas](https://github.com/Knighthawk76/Vulnerability-Scanning)
- 
-  - [Active Directory, Server, with Powershell](https://github.com/Knighthawk76/Windows-Server-With-Active-Directory-
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
