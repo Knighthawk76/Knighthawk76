@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jadica! I'm a passionate cloud Security engineer focused on building my skills in security and constructing secure architectures. 
+<h1>Hi, I'm Jadica! I'm a passionate cloud security engineer focused on building my skills in security and constructing secure architectures. 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Azure/Cloud Projects</b>
