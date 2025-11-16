@@ -1,25 +1,48 @@
-<h1>Hi, I'm Jadica! I'm a passionate cloud security engineer focused on building my skills in security and constructing secure architectures. 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+# Hi there, I'm Jadica Murray! 👋
 
-- <b>Azure/Cloud Projects</b>
-  - [Creating a live SOC / Honeynet in Azure](https://github.com/Knighthawk76/Azure-Honeynet)
- 
-  - [Vulnerability Scanning/OpenVas](https://github.com/Knighthawk76/Vulnerability-Scanning)
-  - [Windows Server with Active Directory and Powershell Automation](https://github.com/Knighthawk76/Windows-Server-With-Active-Directory-)
-<h2>📺 Popular YouTube Videos</h2>
+### 🛡️ Cybersecurity Analyst | Cloud Security Enthusiast | Azure Specialist | AI Practitioner
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [How to Document Your AWS Cloud Projects (To Get Hired)](https://www.youtube.com/watch?v=bBo8iF7SjpY)
+I am a passionate cybersecurity professional focused on Cloud Security,Network Defense, GRC and Responsible AI. I specialize in building and securing cloud infrastructure, and utilizing SIEM tools to detect and mitigate threats. 
 
-<h2> 🤳 Connect with me:</h2>
+---
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### 🚀 Featured Project
 
-[twitter]: https://twitter.com/jblade1
-[instagram]: https://www.instagram.com/jblade1/
-[linkedin]: https://linkedin.com/in/jadicamurray
+#### 🔒 [Building a SOC + Honeynet in Azure (Live Traffic Analysis)](https://github.com/Knighthawk76/Azure-Honeynet)
+*A comprehensive cloud security lab simulating a real-world attack environment.*
 
+* **The Goal:** Created a "honeynet" in Azure to attract cyberattacks and analyze them using Microsoft Sentinel.
+* **The Tech:** Azure, Log Analytics, Microsoft Sentinel (SIEM), KQL, PowerShell, NIST Framework.
+* **The Result:** Analyzed live RDP/SSH brute force attacks from around the world. After applying security hardening controls, **reduced malicious flows by >99%.**
+
+[**View the Full Project & Attack Maps »**](https://github.com/Knighthawk76/Azure-Honeynet)
+
+---
+
+### 🛠️ Technical Skills & Tools
+
+| **Category** | **Tools & Technologies** |
+| :--- | :--- |
+| **Cloud Platforms** | ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) |
+| **SIEM & Analytics** | Microsoft Sentinel, Azure Log Analytics, Kusto Query Language (KQL) |
+| **Operating Systems** | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Networking** | VNet Configuration, NSGs, Firewalls, TCP/IP, DNS |
+| **Scripting** | ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) |
+| **Security Frameworks** | NIST 800-53, NIST Cybersecurity Framework (CSF) |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Knighthawk76&show_icons=true&theme=radical&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Knighthawk76&layout=compact&theme=radical" height="150" alt="languages graph" />
+</div>
+
+---
+
+### 📫 Let's Connect
+
+* **LinkedIn:** [linkedin.com/in/jadicamurray](https://linkedin.com)
+* **Portfolio:** https://github.com/Knighthawk76
+* **Email:** [jadica.murray@gmail.com](mailto:your-email@example.com)
